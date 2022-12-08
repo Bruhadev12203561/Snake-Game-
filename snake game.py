@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[ ]:
 
 
 import turtle
@@ -136,7 +133,6 @@ reset()
 turtle.done()
 
 
-# In[ ]:
 
 
 
