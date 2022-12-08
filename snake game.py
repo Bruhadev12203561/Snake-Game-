@@ -133,7 +133,7 @@ screen.onkey(go_left, "Left")
  
  
 reset()
-turtle.done()
+ turtle.done()
 
 
 # In[ ]:
